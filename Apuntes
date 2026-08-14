@@ -1,0 +1,23 @@
+nvm install 22.23.2
+nvm use 22.23.2
+node -v
+
+descargar ->>> configure-git-credentials
+dejarlo en descargas
+abrir gitbash
+ir al ./configure-git
+
+ir a carpeta-> abrir gitbash -> git clone "URL"
+npm create vite@latest "mi-app" -- --template=react
+--> ESLint
+
+abrir la carpeta en visual
+
+ver script en pckje.json que correr
+se puede cambiar el puerto asi
+"--port=3002"
+npm run dev
+
+git add  -A
+git commit -m "Init"
+git push origin
